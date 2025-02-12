@@ -32,6 +32,7 @@ I'm a fullstack software developer from Recife, Pernambuco📍.
 ## 📦Containerization:
 <div>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
 </div>
 
 ## 📚🧰Libraries and Tools:
